@@ -222,7 +222,7 @@ footer {
 }
 
 
-@media (max-width: 1800px) {
+@media (max-width: 1800px)
     body {
         width: 100%;
         padding: 20px 10px;
